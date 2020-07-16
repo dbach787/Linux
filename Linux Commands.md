@@ -1,7 +1,7 @@
 # Linux Commands
 
 ## Bash Scripts
-  ###      Comment / Remark
+  \###      Comment / Remark
   break    Exit from a loop •
   case     Conditionally perform a command
 continue Resume the next iteration of a loop •
