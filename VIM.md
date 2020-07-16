@@ -9,20 +9,35 @@
 :w - save
 
 :wq - save and quit
+
 i - insert
+
 j - line up
+
 k - line down
+
 :{line number} - jump stright to line number
+
 l - move character right
+
 h - move character left
+
 w - move next word to right
+
 b - move next word to left
+
 0 - start of line
+
 $ - end of line
+
 % - move to matching character, brackets
+
 x - delete current character
+
 dw - delete word
+
 dd - delete line
+
 yy - yank line
 p - paste
 u - undo
