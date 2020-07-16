@@ -3,8 +3,11 @@
 ## Command mode
 -----------
 :q - quit
+
 :q! - quit dont save
+
 :w - save
+
 :wq - save and quit
 i - insert
 j - line up
