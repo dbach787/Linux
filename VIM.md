@@ -39,18 +39,31 @@ dw - delete word
 dd - delete line
 
 yy - yank line
+
 p - paste
+
 u - undo
+
 . - repeat last action
+
 g - start of file
+
 G - end of file
+
 V - select, visual mode, whole line
+
 v - select, visual mode, at cursor position
+
 ctrl+v - select, visual mode, column
+
 * - go to next occurance of current word
+
 z - center cursor on screen
+
 ~ - change case of character
+
 q - start/stop recording macro
+
 @{macro name} - use macro
 
 *you can use integers in front of commands to act as multiplier
@@ -62,6 +75,9 @@ esc - back to command
 # VIM plugins
 ----------
 prettier - auto format code
+
 lightline
+
 vim rainbow
+
 solarized
