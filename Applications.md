@@ -1,5 +1,6 @@
 # Applications I use
 
+## Graphical
 + Abiword
 + Auadacity
 + Audacious
@@ -9,3 +10,8 @@
 + Gnumeric
 + Pinta
 + SpaceFM
+
+## Terminal
++ bc
++ scrot
++ vim
