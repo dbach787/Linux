@@ -9,3 +9,7 @@ On your system create a local directory for your local repo.  Within this direct
 + git rm - remove a file from the local repo
 + git commit - finilize the local repo
 + git push - publish the local repo to the onlne repo
+
++ git add --all
++ git commit -m "Initial commit"
++ git push -u origin master
