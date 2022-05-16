@@ -1,4 +1,4 @@
-﻿audacity
+audacity
 bc
 blueman
 calibre
@@ -8,12 +8,14 @@ ffmpeg
 gparted
 gramps
 imagemagick
+jwm
 kid3
 libreoffice-fresh
 lxappearance
 lxterminal
 mpv
 newsboat
+nm-applet
 nitrogen
 obsidian
 pass
@@ -21,6 +23,7 @@ pcmanfm
 pinta
 pulseaudio
 ranger
+rofi
 scrot
 slock
 sqlitebrowser
@@ -34,6 +37,7 @@ ttf-droid
 vim
 volume_key
 volumeicon
+xfce4-power-manager
 xorg
 yt-dlp
 zathura
